@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"File Icons Extended",
+		"Future Funk - Color Scheme",
+		"JavaScript Completions",
+		"LiveReload",
+		"Material Theme - Appbar",
+		"One Dark Material - Theme",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Spacefunk"
+	]
+}

@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+doctype html5
+html(lang="es")
+	head
+		meta(http-equiv="X-UA-Compatible" content="IE=edge")
+		meta(charset="UTF-8")
+		meta(name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0")
+		meta(name="description" content="$1")
+		meta(name ="keywords" content="$2")
+		link(rel="shortcut icon" href="/favicon.ico" type="image/x-icon")
+		title $3
+		link(rel="stylesheet", href="css/$4")
+		script(src="http://code.jquery.com/jquery-latest.js")
+		script(src="js/$5")
+	body
+		$6
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>html5jd</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

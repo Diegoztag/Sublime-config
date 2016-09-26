@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+content: ""
+display: inline-block
+width: 0
+height: 0
+border-principal$1: anchopx$2 solid
+border-adyacente$3: anchopx$4 solid
+border-adyacente$5: anchopx$6 solid
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>triangulo</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
