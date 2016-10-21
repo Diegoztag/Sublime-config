@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/E/Proyectos/C++",
 		"/C/xampp/htdocs/Platzi/Javascript",
 		"/C/xampp/htdocs/Javascript",
 		"/C/xampp/htdocs/PHP",
@@ -61,11 +62,11 @@
 		"//DIEGOZAZUETA/htdocs/Proyectos/Punto de venta"
 	],
 	"last_version": 3126,
-	"last_window_id": 130,
+	"last_window_id": 133,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 589.0,
+		"new_window_height": 348.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -73,1198 +74,9 @@
 				"selected_items":
 				[
 					[
-						"ale",
-						"aleatorio\taleatorio"
+						"aler",
+						"alert( message?: DOMString ): void\tWindow"
 					],
-					[
-						"mat",
-						"Math.random()\tMath"
-					],
-					[
-						"parse",
-						"parseInt(string, radix)\tWindow"
-					],
-					[
-						"ar",
-						"array"
-					],
-					[
-						"tran",
-						"transition"
-					],
-					[
-						"ngcl",
-						"ng-click\tAngularJS"
-					],
-					[
-						"margin",
-						"margin-top"
-					],
-					[
-						"pa",
-						"padding-top"
-					],
-					[
-						"pre",
-						"preventDefault()\tEvent"
-					],
-					[
-						"post",
-						"post-title"
-					],
-					[
-						"wrap",
-						"wrap-post"
-					],
-					[
-						"ab",
-						"abstract"
-					],
-					[
-						"inlin",
-						"inline-block"
-					],
-					[
-						"trans",
-						"transparent"
-					],
-					[
-						"pad",
-						"padding"
-					],
-					[
-						"padd",
-						"padding"
-					],
-					[
-						"ini",
-						"initial"
-					],
-					[
-						"line",
-						"linear"
-					],
-					[
-						"TRAN",
-						"transition"
-					],
-					[
-						"or",
-						"order"
-					],
-					[
-						"po",
-						"pointer"
-					],
-					[
-						"anima",
-						"animacion"
-					],
-					[
-						"bg",
-						"bgi\tbackground-image"
-					],
-					[
-						"content",
-						"content-icon"
-					],
-					[
-						"abs",
-						"abstract"
-					],
-					[
-						"at",
-						"at-share-btn"
-					],
-					[
-						"mouse",
-						"mouseleave\tEvent"
-					],
-					[
-						"br",
-						"border-radius"
-					],
-					[
-						"min",
-						"min-height"
-					],
-					[
-						"ju",
-						"justify"
-					],
-					[
-						"visi",
-						"visibility = 'hidden'\tStyle CSS"
-					],
-					[
-						"u",
-						"underline"
-					],
-					[
-						"text",
-						"text-decoration"
-					],
-					[
-						"meta",
-						"metaw"
-					],
-					[
-						"hasta",
-						"hasta-pantalla"
-					],
-					[
-						"marg",
-						"margin-bottom"
-					],
-					[
-						"ante",
-						"antetitulo"
-					],
-					[
-						"bor",
-						"border-radius"
-					],
-					[
-						"__icon",
-						"__icon-web"
-					],
-					[
-						"__linea",
-						"__linea-item"
-					],
-					[
-						"post-",
-						"post-date"
-					],
-					[
-						"antet",
-						"antetitulo"
-					],
-					[
-						"jum",
-						"jumbo__titulo"
-					],
-					[
-						"AAA",
-						"window.importDialog(aParent, aSrc, aArguments)\tWindow"
-					],
-					[
-						"mo",
-						"moveTo(x, y)\tWindow"
-					],
-					[
-						"for",
-						"for()"
-					],
-					[
-						"if",
-						"if else"
-					],
-					[
-						"false",
-						"false"
-					],
-					[
-						"ptot",
-						"prototype"
-					],
-					[
-						"else",
-						"else if()"
-					],
-					[
-						"js",
-						"js\tScript"
-					],
-					[
-						"lorem",
-						"loremp\tLoremPixel"
-					],
-					[
-						"mar",
-						"margin-top"
-					],
-					[
-						"zu",
-						"zurix-menu-v"
-					],
-					[
-						"F",
-						"FDFDFD"
-					],
-					[
-						"menu",
-						"menu__fix2"
-					],
-					[
-						"justi",
-						"justify-content"
-					],
-					[
-						"__a",
-						"__abrir"
-					],
-					[
-						"margi",
-						"margin"
-					],
-					[
-						"border",
-						"border"
-					],
-					[
-						"__f",
-						"__form-btn"
-					],
-					[
-						"__b",
-						"__btn"
-					],
-					[
-						"foot",
-						"footer-web"
-					],
-					[
-						"footer",
-						"footer-tablet"
-					],
-					[
-						"foo",
-						"footer-web"
-					],
-					[
-						"an",
-						"antetitulo-web"
-					],
-					[
-						"modulo",
-						"modulo-tablet"
-					],
-					[
-						"modu",
-						"modulo-movil"
-					],
-					[
-						"titulo",
-						"titulo-web"
-					],
-					[
-						"antetitulo",
-						"antetitulo-base"
-					],
-					[
-						"__tit",
-						"__title"
-					],
-					[
-						"lin",
-						"line-height"
-					],
-					[
-						"tag_",
-						"tag__description"
-					],
-					[
-						"tag",
-						"tag__title"
-					],
-					[
-						"col",
-						"column"
-					],
-					[
-						"flex-",
-						"flex-direction"
-					],
-					[
-						"au",
-						"author-bio"
-					],
-					[
-						"aut",
-						"author-meta"
-					],
-					[
-						"auit",
-						"author-title"
-					],
-					[
-						"padding",
-						"padding-bottom"
-					],
-					[
-						"max",
-						"max-width"
-					],
-					[
-						"bre",
-						"break-word"
-					],
-					[
-						"ww",
-						"word-wrap"
-					],
-					[
-						"column",
-						"column"
-					],
-					[
-						"bo",
-						"body"
-					],
-					[
-						"__work",
-						"__work-box-container"
-					],
-					[
-						"__ti",
-						"__title"
-					],
-					[
-						"__",
-						"__titulo"
-					],
-					[
-						"ow",
-						"owl-pagination"
-					],
-					[
-						"jumbo__",
-						"jumbo__titulo"
-					],
-					[
-						"flex-d",
-						"flexDirection = 'row-reverse'\tStyle CSS"
-					],
-					[
-						"abrir-menu__",
-						"abrir-menu__linea1"
-					],
-					[
-						"colo",
-						"color1"
-					],
-					[
-						"tra",
-						"transition\tStyle CSS"
-					],
-					[
-						"ri",
-						"right"
-					],
-					[
-						"flex",
-						"flex-wrap"
-					],
-					[
-						"te",
-						"text-align"
-					],
-					[
-						"bord",
-						"border"
-					],
-					[
-						"__block",
-						"__block-tres"
-					],
-					[
-						"bt",
-						"btn-circulo"
-					],
-					[
-						"jumbo",
-						"jumbo__body"
-					],
-					[
-						"__menu",
-						"__menu-btn"
-					],
-					[
-						"pos",
-						"position"
-					],
-					[
-						"p",
-						"padding"
-					],
-					[
-						"rgb",
-						"rgba"
-					],
-					[
-						"lor",
-						"loremp\tLoremPixel"
-					],
-					[
-						"bb",
-						"bdb\tborder-bottom"
-					],
-					[
-						"mous",
-						"mouseleave\tEvent"
-					],
-					[
-						"bl",
-						"block"
-					],
-					[
-						"mouseo",
-						"mouseover\tEvent"
-					],
-					[
-						"color",
-						"color"
-					],
-					[
-						"hidden",
-						"overflow = 'hidden'\tStyle CSS"
-					],
-					[
-						"overf",
-						"overflowX\tStyle CSS"
-					],
-					[
-						"over",
-						"overflowY\tStyle CSS"
-					],
-					[
-						"settim",
-						"setTimeout(func, delay)\tWindow"
-					],
-					[
-						"b",
-						"bg\tbackground"
-					],
-					[
-						"scr",
-						"scroll\tEvent"
-					],
-					[
-						"scrollt",
-						"scrollTo(x_coord, y_coord)\tWindow"
-					],
-					[
-						"bac",
-						"background-image"
-					],
-					[
-						"zoo",
-						"cursor = 'zoom-in'\tStyle CSS"
-					],
-					[
-						"true",
-						"true"
-					],
-					[
-						"padi",
-						"padding-bottom"
-					],
-					[
-						"background-c",
-						"background-color"
-					],
-					[
-						"mou",
-						"mouseup\tEvent"
-					],
-					[
-						"bw",
-						"bdw\tborder-width"
-					],
-					[
-						"m",
-						"m\tmargin"
-					],
-					[
-						"ws",
-						"white-space"
-					],
-					[
-						"fsi",
-						"font-size"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Packages/SASS Build/SASS - Compressed.sublime-build",
-							""
-						],
-						[
-							"Packages/SASS Build/SASS.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/SASS Build/SASS.sublime-build",
-						""
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 354.0,
-				"last_filter": "instal",
-				"selected_items":
-				[
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"mate",
-						"Material Theme: Advanced configuration"
-					],
-					[
-						"mater",
-						"Material Theme: Activate theme"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"reloa",
-						"LiveReload: Enable/disable plug-ins"
-					],
-					[
-						"enabl",
-						"Package Control: Enable Package"
-					],
-					[
-						"canvas",
-						"Canvas Snippets: Open ChangeLog"
-					],
-					[
-						"relo",
-						"LiveReload: Enable/disable plug-ins"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"reload",
-						"LiveReload: Enable/disable plug-ins"
-					],
-					[
-						"cd",
-						"Snippet: Jquery CDN"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Install Package"
-					],
-					[
-						"ena",
-						"Package Control: Enable Package"
-					],
-					[
-						"Snippet: ",
-						"Snippet: Jquery CDN"
-					],
-					[
-						"packa",
-						"Package Control: Remove Package"
-					],
-					[
-						"di",
-						"Package Control: Disable Package"
-					],
-					[
-						"pac",
-						"Package Control: Install Package"
-					],
-					[
-						"ins",
-						"LiveReload: Enable/disable plug-ins"
-					],
-					[
-						"enable",
-						"LiveReload: Enable/disable plug-ins"
-					],
-					[
-						"cdn",
-						"Snippet: Jquery CDN"
-					],
-					[
-						"syss",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"ENABL",
-						"LiveReload: Enable/disable plug-ins"
-					],
-					[
-						"sy",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"dis",
-						"Package Control: Disable Package"
-					],
-					[
-						"syn",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"disable",
-						"Package Control: Disable Package"
-					],
-					[
-						"live",
-						"LiveReload: Enable/disable plug-ins"
-					],
-					[
-						"sys",
-						"Set Syntax: CSS3"
-					],
-					[
-						"sysc",
-						"Set Syntax: CSS"
-					],
-					[
-						"livere",
-						"LiveReload: Enable/disable plug-ins"
-					],
-					[
-						"sys css",
-						"Set Syntax: CSS3"
-					],
-					[
-						"sys sa",
-						"Set Syntax: Sass"
-					],
-					[
-						"liv",
-						"LiveReload: Enable/disable plug-ins"
-					],
-					[
-						"sys j",
-						"Set Syntax: JSON"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"sass",
-						"Set Syntax: Sass"
-					],
-					[
-						"ENABLE",
-						"LiveReload: Enable/disable plug-ins"
-					],
-					[
-						"liver",
-						"LiveReload: Enable/disable plug-ins"
-					],
-					[
-						"linter",
-						"Preferences: SublimeLinter Settings – Default"
-					],
-					[
-						"lintern",
-						"SublimeLinter: Make Warnings Passive"
-					],
-					[
-						"sublimelintern",
-						"SublimeLinter: Choose Lint Mode"
-					],
-					[
-						"java",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"aligmen",
-						"Preferences: Alignment Key Bindings – Default"
-					],
-					[
-						"d",
-						"Package Control: Disable Package"
-					],
-					[
-						"livereload",
-						"LiveReload: Enable/disable plug-ins"
-					],
-					[
-						"LiveReload: Enable/disable plugins",
-						"LiveReload: Enable/disable plug-ins"
-					],
-					[
-						"snippe",
-						"Snippet: HTML5"
-					],
-					[
-						"snippet",
-						"Snippet: Reset"
-					],
-					[
-						"en",
-						"Package Control: Enable Package"
-					],
-					[
-						"re",
-						"Package Control: Remove Package"
-					],
-					[
-						"",
-						"Autoprefix CSS"
-					],
-					[
-						"a",
-						"Autoprefix CSS"
-					]
-				],
-				"width": 510.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
-					"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Installed Packages/Material Theme - Appbar/package.json",
-				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Installed Packages/Material Theme - Appbar/src/Material-Theme-Darker.json",
-				"/C/xampp/htdocs/Javascript/script.js",
-				"/C/xampp/htdocs/Javascript/index.html",
-				"/C/xampp/htdocs/PHP/Tienda online/index.php",
-				"/C/xampp/htdocs/PHP/index.php",
-				"/C/xampp/htdocs/Cursos/Codigo facilito/PHP/index.php",
-				"//PCDIZAR-PC/htdocs/Proyectos/Carrito de compras/app/frontend/styles/sass/parciales/_main.sass",
-				"//PCDIZAR-PC/htdocs/Proyectos/Carrito de compras/app/frontend/scripts/app.js",
-				"//PCDIZAR-PC/htdocs/Proyectos/Carrito de compras/app/frontend/index.html",
-				"//PCDIZAR-PC/htdocs/Proyectos/Carrito de compras/app/frontend/styles/sass/parciales/_header.sass",
-				"//PCDIZAR-PC/htdocs/Proyectos/Carrito de compras/app/frontend/styles/sass/parciales/_footer.sass",
-				"/C/xampp/htdocs/Cursos/Platzi/Programacion Básica/Zelda/script.js",
-				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Zelda/index.html",
-				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Zelda/js/script.js",
-				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/Canvas-Snippets/Changes.txt",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/partials/loop.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_main.sass",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_modulos.sass",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/js/script.js",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/default.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/partials/navigation.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_menu.sass",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/zurix.scss",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/js/hammer.min.js",
-				"/E/Descargas/combined.css",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/partials/slider.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/package.json",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/README.html",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/README.md",
-				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
-				"/C/Users/Diego Zazueta/Desktop/ffdds.html",
-				"/C/Users/Diego Zazueta/Desktop/ff.css",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/modulos/_base.scss",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/index.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_footer.sass",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/assets/css/screen.css",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/assets/js/index.js",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/default.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/assets/js/jquery.fitvids.js",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/page-sobre-mi.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_post.sass",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/partials/loader.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_header.sass",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/css/magnific-popup.css",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/js/script.min.js",
-				"/C/Users/Diego Zazueta/AppData/Local/Temp/Temp1_optimized_contents.zip/js/script.js",
-				"/C/xampp/htdocs/Ghost/versiones theme/Blog 1.1.8/assets/scss/zurix.scss",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/post.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/partials/suscribe.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_autor.sass",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/author.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/tag.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/partials/pagination.hbs",
-				"/C/xampp/htdocs/Github/Piedra,papel y tijera/package.json",
-				"/C/xampp/htdocs/Github/Zurix/package.json",
-				"/C/xampp/htdocs/Complementos/Animaciones/animate.css",
-				"/C/xampp/htdocs/Ghost/versiones theme/Blog 1.1.7/assets/scss/plantilla/_header.sass",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/partials/navigation.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/partials/footer.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/author.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/index.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/page.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/post.hbs",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/tag.hbs",
-				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_menu.scss",
-				"/C/xampp/htdocs/Github/Zurix/scss/zurix.scss",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_tag.sass",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_sobre-mi.sass",
-				"/C/xampp/htdocs/Ghost/versiones theme/Blog 1.1.7/assets/scss/zurix.scss",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/modulos/_menu.scss",
-				"/C/xampp/htdocs/Github/Zurix/README.html",
-				"/C/xampp/htdocs/Github/Zurix/README.md",
-				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_utilidades.scss",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/modulos/_utilidades.scss",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/css/modulos/_utilidades.css",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/modulos/_flexbox.scss",
-				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_flexbox.scss",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/componentes/_flexbox.scss",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_base.sass",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/zurix2.scss",
-				"/C/xampp/htdocs/Ghost/versiones theme/Blog 1.1.6/assets/scss/zurix.scss",
-				"/E/Descargas/pushy-master/css/pushy.css",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/js/pushy.min.js",
-				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_pushy.scss",
-				"/C/xampp/htdocs/Github/Zurix/index.html",
-				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Canvas/index.html",
-				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Canvas/script.js",
-				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/JS/getContext.sublime-snippet",
-				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Ciclos/script.js",
-				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/JS/While.sublime-snippet",
-				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Pokedex/script.js",
-				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Pokedex/index.html",
-				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Pokedex/estilo.sass",
-				"/C/xampp/htdocs/Cursos/Platzi/Programacion Básica/Pokedex/script.js",
-				"/C/xampp/htdocs/Cursos/Platzi/Programacion Básica/Pokedex/index.html",
-				"/C/xampp/htdocs/Curso platzi programacion basica/Pokedex/index.html",
-				"/C/xampp/htdocs/Curso platzi programacion basica/Pokedex/script.js",
-				"/C/xampp/htdocs/Curso platzi programacion basica/clase3/index.html",
-				"/C/xampp/htdocs/Curso platzi programacion basica/clase3/script.js",
-				"/C/xampp/htdocs/Cursos/Platzi/Programacion Básica/Busca Minas/script.js",
-				"/C/xampp/htdocs/Curso platzi programacion basica/Jan ken pon/script.js",
-				"/C/xampp/htdocs/Curso platzi programacion basica/Jan ken pon/index.html",
-				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/JS/Funcion main.sublime-snippet",
-				"/C/xampp/htdocs/Cursos/Platzi/Programacion Básica/Piedra,papel,tijera,lagarto & spock/script.js",
-				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/JS/Salto de linea.sublime-snippet",
-				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/HTML5/Script.sublime-snippet",
-				"/C/xampp/htdocs/Github/Zurix/plantilla/Proyecto/css/estilo.css",
-				"/C/xampp/htdocs/Github/Zurix/plantilla/Proyecto/index.html",
-				"/C/xampp/htdocs/Github/Zurix/plantilla/Proyecto/zurix.sass",
-				"/E/Descargas/bootstrap-sass-3.3.6.tar/bootstrap-sass-3.3.6/templates/project/_bootstrap-variables.sass",
-				"/E/Descargas/bootstrap-sass-3.3.6.tar/bootstrap-sass-3.3.6/templates/project/styles.sass",
-				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_visibilidad.scss",
-				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_base.scss",
-				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_nucleo.scss",
-				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_offset.scss",
-				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_tablas.scss",
-				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_mixins.scss",
-				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_core.scss",
-				"/C/xampp/htdocs/Github/Zurix/scss/plantilla/_main.sass",
-				"/C/xampp/htdocs/Github/Zurix/js/script.js",
-				"/C/xampp/htdocs/Github/Zurix/scss/componentes/_utilidades.scss",
-				"/C/xampp/htdocs/Github/Zurix/scss/componentes/_menu.scss",
-				"/C/xampp/htdocs/Sitio Web ejemplos/Menu desplegable CSS/Menu.html",
-				"/E/Descargas/update3/META-INF/com/google/android/updater-script.txt",
-				"/E/Descargas/update3/META-INF/com/google/android/update-binary.txt"
-			],
-			"find":
-			{
-				"height": 30.0
-			},
-			"find_in_files":
-			{
-				"height": 119.0,
-				"where_history":
-				[
-					"<open folders>",
-					"",
-					"<open files>,C:\\xampp\\htdocs\\Github\\Zurix",
-					"<open files>,C:\\xampp\\htdocs\\Github\\Zurixed",
-					"<open files>",
-					"",
-					"<open files>,C:\\xampp\\htdocs\\Ghost\\ghost-0.7.8\\content\\themes\\Blog",
-					"<open files>",
-					"",
-					"C:\\xampp\\htdocs\\Ghost\\ghost-0.7.8\\content\\themes\\Blog,C:\\xampp\\htdocs\\Github\\Zurix\\scss",
-					"C:\\xampp\\htdocs\\Ghost\\ghost-0.7.8\\content\\themes\\Blog",
-					"Roboto",
-					"<current file>",
-					"<current file>,C:\\xampp\\htdocs\\Complementos\\Frameworks\\CSS\\Zurix",
-					"<current file>",
-					"",
-					"C:\\xampp\\htdocs\\Complementos\\Frameworks\\CSS\\sierra-master",
-					"<current file>,C:\\xampp\\htdocs\\Complementos\\Frameworks\\CSS\\Zurix\\scss,C:\\xampp\\htdocs\\Complementos\\Frameworks\\CSS\\Zurix",
-					"<current file>,C:\\xampp\\htdocs\\Complementos\\Frameworks\\CSS\\Zurix\\scss",
-					"<current file>",
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					";\n",
-					"font-we",
-					"border",
-					".post-meta",
-					"post-meta",
-					"port-meta",
-					"1s",
-					"placeholder",
-					";\n",
-					"min-hei",
-					"menu-fixed",
-					">\n",
-					"FF5925",
-					"justificar",
-					"500px",
-					"post-hea",
-					"post-ti",
-					"wrap-post",
-					"paginacion",
-					"05",
-					"rss",
-					"$gris",
-					"font-si",
-					"location",
-					"$gris4",
-					"$gris5",
-					"$gris6",
-					"$color6",
-					"$color",
-					"$color1",
-					"base",
-					"mini",
-					"base",
-					"Base",
-					"base",
-					"cros",
-					"base",
-					"plantilla",
-					"modulos",
-					"plantilla",
-					"$",
-					"min",
-					"body",
-					"#nav-icon4",
-					"l",
-					"lienzo",
-					"pony",
-					"l",
-					"ctx",
-					"l",
-					"ctx",
-					"i",
-					"breakpoints",
-					"ed",
-					"componentes",
-					"desarrollo",
-					"descarga",
-					"hidden",
-					"h2",
-					"\t<",
-					">\n",
-					"offset",
-					">\n",
-					"xs",
-					"token",
-					"1407",
-					"paginacion-wrap",
-					"post-content",
-					"#707070",
-					".wrap",
-					".main-content\n.wrap",
-					".main-content\n.site-wrapper",
-					".main-content\n",
-					"main-content\n",
-					";\n",
-					".center",
-					"center",
-					"desarrollo",
-					"//",
-					"menu-horizontal",
-					"padre",
-					"$size",
-					"&:hover",
-					"Roboto",
-					"open",
-					"Roboto",
-					"lato",
-					"hover",
-					"z-index",
-					"wrap",
-					"container",
-					".buscar",
-					"icono",
-					".icono",
-					"search2",
-					"mostrar-menu",
-					"logo-menu",
-					"titulo-menu",
-					"proyecto",
-					"azure",
-					"lighter",
-					"pink",
-					"__titulo",
-					"table-izquierda",
-					"rss",
-					"color5",
-					"margin",
-					"0px",
-					"#3996cc",
-					"3s",
-					"all",
-					"animate-delay",
-					"zIndex",
-					"zindex",
-					"index",
-					"border",
-					".post",
-					".article",
-					".article .post",
-					".main-nav",
-					".inner",
-					".clearfix",
-					"menu-content",
-					"false",
-					"1",
-					"fadeOut",
-					"\");\n",
-					"$color5"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"$negro2",
-					"$azul",
-					"$naranja",
-					"$gris",
-					"$blanco",
-					"#797979",
-					"",
-					"$color1",
-					"",
-					"zurix",
-					"",
-					"diseño",
-					"hijo",
-					"papa",
-					"bloque3",
-					"bloque1",
-					"bloque2",
-					"bloque1",
-					"blue.png",
-					"campo",
-					"Player",
-					"estructuraPoke",
-					"cantidad",
-					"SUM",
-					"COUNT",
-					"nombre"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": false,
-				"whole_word": false,
-				"wrap": false
-			},
-			"incremental_find":
-			{
-				"height": 30.0
-			},
-			"input":
-			{
-				"height": 36.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 128.0
-			},
-			"output.find_results":
-			{
-				"height": 128.0
-			},
-			"output.sftp":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 56.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 207.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-				"max_columns": 2
-			}
-		},
-		"new_window_width": 1428.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"ale",
 						"alert\tAlert"
@@ -1772,37 +584,31 @@
 					[
 						"ws",
 						"white-space"
-					],
-					[
-						"fsi",
-						"font-size"
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/C/xampp/htdocs/Platzi/Javascript/Peso en planetas/index.html",
-					"settings":
-					{
-						"buffer_size": 351,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/xampp/htdocs/Platzi/Javascript/Peso en planetas/script.js",
-					"settings":
-					{
-						"buffer_size": 266,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
 				[
 					[
 						[
@@ -1824,9 +630,13 @@
 			"command_palette":
 			{
 				"height": 354.0,
-				"last_filter": "insta",
+				"last_filter": "ena",
 				"selected_items":
 				[
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
 					[
 						"insta",
 						"Package Control: Install Package"
@@ -1882,10 +692,6 @@
 					[
 						"Package Control: ",
 						"Package Control: Install Package"
-					],
-					[
-						"ena",
-						"Package Control: Enable Package"
 					],
 					[
 						"Snippet: ",
@@ -2070,13 +876,13 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/C/xampp/htdocs/Platzi/Javascript",
-				"/C/xampp/htdocs/Platzi/Javascript/Peso en planetas"
-			],
 			"file_history":
 			[
+				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
+				"/C/xampp/htdocs/Platzi/Javascript/Peso en planetas/script.js",
+				"/C/xampp/htdocs/Platzi/Javascript/Peso en planetas/index.html",
+				"/C/Users/Diego Zazueta/Desktop/Apuntes.txt",
+				"/C/xampp/php/php.ini",
 				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Installed Packages/Material Theme - Appbar/package.json",
@@ -2199,16 +1005,11 @@
 				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_mixins.scss",
 				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_core.scss",
 				"/C/xampp/htdocs/Github/Zurix/scss/plantilla/_main.sass",
-				"/C/xampp/htdocs/Github/Zurix/js/script.js",
-				"/C/xampp/htdocs/Github/Zurix/scss/componentes/_utilidades.scss",
-				"/C/xampp/htdocs/Github/Zurix/scss/componentes/_menu.scss",
-				"/C/xampp/htdocs/Sitio Web ejemplos/Menu desplegable CSS/Menu.html",
-				"/E/Descargas/update3/META-INF/com/google/android/updater-script.txt",
-				"/E/Descargas/update3/META-INF/com/google/android/update-binary.txt"
+				"/C/xampp/htdocs/Github/Zurix/js/script.js"
 			],
 			"find":
 			{
-				"height": 30.0
+				"height": 48.0
 			},
 			"find_in_files":
 			{
@@ -2243,6 +1044,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"module",
+					"module seting",
 					";\n",
 					"font-we",
 					"border",
@@ -2368,9 +1171,1254 @@
 					"menu-content",
 					"false",
 					"1",
-					"fadeOut",
-					"\");\n",
-					"$color5"
+					"fadeOut"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"$negro2",
+					"$azul",
+					"$naranja",
+					"$gris",
+					"$blanco",
+					"#797979",
+					"",
+					"$color1",
+					"",
+					"zurix",
+					"",
+					"diseño",
+					"hijo",
+					"papa",
+					"bloque3",
+					"bloque1",
+					"bloque2",
+					"bloque1",
+					"blue.png",
+					"campo",
+					"Player",
+					"estructuraPoke",
+					"cantidad",
+					"SUM",
+					"COUNT",
+					"nombre"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 240.0
+			},
+			"output.find_results":
+			{
+				"height": 128.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/C++.sublime-build",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 173.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 1428.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"T",
+						"True"
+					],
+					[
+						"aler",
+						"alert( message?: DOMString ): void\tWindow"
+					],
+					[
+						"ale",
+						"alert\tAlert"
+					],
+					[
+						"mat",
+						"Math.random()\tMath"
+					],
+					[
+						"parse",
+						"parseInt(string, radix)\tWindow"
+					],
+					[
+						"ar",
+						"array"
+					],
+					[
+						"tran",
+						"transition"
+					],
+					[
+						"ngcl",
+						"ng-click\tAngularJS"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"pa",
+						"padding-top"
+					],
+					[
+						"pre",
+						"preventDefault()\tEvent"
+					],
+					[
+						"post",
+						"post-title"
+					],
+					[
+						"wrap",
+						"wrap-post"
+					],
+					[
+						"ab",
+						"abstract"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"trans",
+						"transparent"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"ini",
+						"initial"
+					],
+					[
+						"line",
+						"linear"
+					],
+					[
+						"TRAN",
+						"transition"
+					],
+					[
+						"or",
+						"order"
+					],
+					[
+						"po",
+						"pointer"
+					],
+					[
+						"anima",
+						"animacion"
+					],
+					[
+						"bg",
+						"bgi\tbackground-image"
+					],
+					[
+						"content",
+						"content-icon"
+					],
+					[
+						"abs",
+						"abstract"
+					],
+					[
+						"at",
+						"at-share-btn"
+					],
+					[
+						"mouse",
+						"mouseleave\tEvent"
+					],
+					[
+						"br",
+						"border-radius"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"ju",
+						"justify"
+					],
+					[
+						"visi",
+						"visibility = 'hidden'\tStyle CSS"
+					],
+					[
+						"u",
+						"underline"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"meta",
+						"metaw"
+					],
+					[
+						"hasta",
+						"hasta-pantalla"
+					],
+					[
+						"marg",
+						"margin-bottom"
+					],
+					[
+						"ante",
+						"antetitulo"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"__icon",
+						"__icon-web"
+					],
+					[
+						"__linea",
+						"__linea-item"
+					],
+					[
+						"post-",
+						"post-date"
+					],
+					[
+						"antet",
+						"antetitulo"
+					],
+					[
+						"jum",
+						"jumbo__titulo"
+					],
+					[
+						"AAA",
+						"window.importDialog(aParent, aSrc, aArguments)\tWindow"
+					],
+					[
+						"mo",
+						"moveTo(x, y)\tWindow"
+					],
+					[
+						"for",
+						"for()"
+					],
+					[
+						"if",
+						"if else"
+					],
+					[
+						"false",
+						"false"
+					],
+					[
+						"ptot",
+						"prototype"
+					],
+					[
+						"else",
+						"else if()"
+					],
+					[
+						"js",
+						"js\tScript"
+					],
+					[
+						"lorem",
+						"loremp\tLoremPixel"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"zu",
+						"zurix-menu-v"
+					],
+					[
+						"F",
+						"FDFDFD"
+					],
+					[
+						"menu",
+						"menu__fix2"
+					],
+					[
+						"justi",
+						"justify-content"
+					],
+					[
+						"__a",
+						"__abrir"
+					],
+					[
+						"margi",
+						"margin"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"__f",
+						"__form-btn"
+					],
+					[
+						"__b",
+						"__btn"
+					],
+					[
+						"foot",
+						"footer-web"
+					],
+					[
+						"footer",
+						"footer-tablet"
+					],
+					[
+						"foo",
+						"footer-web"
+					],
+					[
+						"an",
+						"antetitulo-web"
+					],
+					[
+						"modulo",
+						"modulo-tablet"
+					],
+					[
+						"modu",
+						"modulo-movil"
+					],
+					[
+						"titulo",
+						"titulo-web"
+					],
+					[
+						"antetitulo",
+						"antetitulo-base"
+					],
+					[
+						"__tit",
+						"__title"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"tag_",
+						"tag__description"
+					],
+					[
+						"tag",
+						"tag__title"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"flex-",
+						"flex-direction"
+					],
+					[
+						"au",
+						"author-bio"
+					],
+					[
+						"aut",
+						"author-meta"
+					],
+					[
+						"auit",
+						"author-title"
+					],
+					[
+						"padding",
+						"padding-bottom"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"bre",
+						"break-word"
+					],
+					[
+						"ww",
+						"word-wrap"
+					],
+					[
+						"column",
+						"column"
+					],
+					[
+						"bo",
+						"body"
+					],
+					[
+						"__work",
+						"__work-box-container"
+					],
+					[
+						"__ti",
+						"__title"
+					],
+					[
+						"__",
+						"__titulo"
+					],
+					[
+						"ow",
+						"owl-pagination"
+					],
+					[
+						"jumbo__",
+						"jumbo__titulo"
+					],
+					[
+						"flex-d",
+						"flexDirection = 'row-reverse'\tStyle CSS"
+					],
+					[
+						"abrir-menu__",
+						"abrir-menu__linea1"
+					],
+					[
+						"colo",
+						"color1"
+					],
+					[
+						"tra",
+						"transition\tStyle CSS"
+					],
+					[
+						"ri",
+						"right"
+					],
+					[
+						"flex",
+						"flex-wrap"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"bord",
+						"border"
+					],
+					[
+						"__block",
+						"__block-tres"
+					],
+					[
+						"bt",
+						"btn-circulo"
+					],
+					[
+						"jumbo",
+						"jumbo__body"
+					],
+					[
+						"__menu",
+						"__menu-btn"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"p",
+						"padding"
+					],
+					[
+						"rgb",
+						"rgba"
+					],
+					[
+						"lor",
+						"loremp\tLoremPixel"
+					],
+					[
+						"bb",
+						"bdb\tborder-bottom"
+					],
+					[
+						"mous",
+						"mouseleave\tEvent"
+					],
+					[
+						"bl",
+						"block"
+					],
+					[
+						"mouseo",
+						"mouseover\tEvent"
+					],
+					[
+						"color",
+						"color"
+					],
+					[
+						"hidden",
+						"overflow = 'hidden'\tStyle CSS"
+					],
+					[
+						"overf",
+						"overflowX\tStyle CSS"
+					],
+					[
+						"over",
+						"overflowY\tStyle CSS"
+					],
+					[
+						"settim",
+						"setTimeout(func, delay)\tWindow"
+					],
+					[
+						"b",
+						"bg\tbackground"
+					],
+					[
+						"scr",
+						"scroll\tEvent"
+					],
+					[
+						"scrollt",
+						"scrollTo(x_coord, y_coord)\tWindow"
+					],
+					[
+						"bac",
+						"background-image"
+					],
+					[
+						"zoo",
+						"cursor = 'zoom-in'\tStyle CSS"
+					],
+					[
+						"true",
+						"true"
+					],
+					[
+						"padi",
+						"padding-bottom"
+					],
+					[
+						"background-c",
+						"background-color"
+					],
+					[
+						"mou",
+						"mouseup\tEvent"
+					],
+					[
+						"bw",
+						"bdw\tborder-width"
+					],
+					[
+						"m",
+						"m\tmargin"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/Proyectos/C++/Curso Coppel C++/calculadora.cpp",
+					"settings":
+					{
+						"buffer_size": 1217,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/C++/C++ Single File.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SASS Build/SASS - Compressed.sublime-build",
+							""
+						],
+						[
+							"Packages/SASS Build/SASS.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SASS Build/SASS.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"mate",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"mater",
+						"Material Theme: Activate theme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"reloa",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"enabl",
+						"Package Control: Enable Package"
+					],
+					[
+						"canvas",
+						"Canvas Snippets: Open ChangeLog"
+					],
+					[
+						"relo",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"reload",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"cd",
+						"Snippet: Jquery CDN"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Jquery CDN"
+					],
+					[
+						"di",
+						"Package Control: Disable Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"enable",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"cdn",
+						"Snippet: Jquery CDN"
+					],
+					[
+						"syss",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ENABL",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"sy",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"syn",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"live",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"sys",
+						"Set Syntax: CSS3"
+					],
+					[
+						"sysc",
+						"Set Syntax: CSS"
+					],
+					[
+						"livere",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"sys css",
+						"Set Syntax: CSS3"
+					],
+					[
+						"sys sa",
+						"Set Syntax: Sass"
+					],
+					[
+						"liv",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"sys j",
+						"Set Syntax: JSON"
+					],
+					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"ENABLE",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"liver",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"linter",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"lintern",
+						"SublimeLinter: Make Warnings Passive"
+					],
+					[
+						"sublimelintern",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"aligmen",
+						"Preferences: Alignment Key Bindings – Default"
+					],
+					[
+						"d",
+						"Package Control: Disable Package"
+					],
+					[
+						"livereload",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"LiveReload: Enable/disable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"snippe",
+						"Snippet: HTML5"
+					],
+					[
+						"snippet",
+						"Snippet: Reset"
+					],
+					[
+						"en",
+						"Package Control: Enable Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"",
+						"Autoprefix CSS"
+					],
+					[
+						"a",
+						"Autoprefix CSS"
+					]
+				],
+				"width": 510.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/Proyectos/C++",
+				"/E/Proyectos/C++/Curso Coppel C++"
+			],
+			"file_history":
+			[
+				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py",
+				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/exec.py",
+				"/E/Proyectos/C++/Curso Coppel C++/ejercicioclase.cpp",
+				"/C/xampp/htdocs/c++/ejemplo.cpp",
+				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
+				"/C/xampp/htdocs/Platzi/Javascript/Peso en planetas/script.js",
+				"/C/xampp/htdocs/Platzi/Javascript/Peso en planetas/index.html",
+				"/C/Users/Diego Zazueta/Desktop/Apuntes.txt",
+				"/C/xampp/php/php.ini",
+				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Installed Packages/Material Theme - Appbar/package.json",
+				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Installed Packages/Material Theme - Appbar/src/Material-Theme-Darker.json",
+				"/C/xampp/htdocs/Javascript/script.js",
+				"/C/xampp/htdocs/Javascript/index.html",
+				"/C/xampp/htdocs/PHP/Tienda online/index.php",
+				"/C/xampp/htdocs/PHP/index.php",
+				"/C/xampp/htdocs/Cursos/Codigo facilito/PHP/index.php",
+				"//PCDIZAR-PC/htdocs/Proyectos/Carrito de compras/app/frontend/styles/sass/parciales/_main.sass",
+				"//PCDIZAR-PC/htdocs/Proyectos/Carrito de compras/app/frontend/scripts/app.js",
+				"//PCDIZAR-PC/htdocs/Proyectos/Carrito de compras/app/frontend/index.html",
+				"//PCDIZAR-PC/htdocs/Proyectos/Carrito de compras/app/frontend/styles/sass/parciales/_header.sass",
+				"//PCDIZAR-PC/htdocs/Proyectos/Carrito de compras/app/frontend/styles/sass/parciales/_footer.sass",
+				"/C/xampp/htdocs/Cursos/Platzi/Programacion Básica/Zelda/script.js",
+				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Zelda/index.html",
+				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Zelda/js/script.js",
+				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/Canvas-Snippets/Changes.txt",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/partials/loop.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_main.sass",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_modulos.sass",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/js/script.js",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/default.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/partials/navigation.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_menu.sass",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/zurix.scss",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/js/hammer.min.js",
+				"/E/Descargas/combined.css",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/partials/slider.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/package.json",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/README.html",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/README.md",
+				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+				"/C/Users/Diego Zazueta/Desktop/ffdds.html",
+				"/C/Users/Diego Zazueta/Desktop/ff.css",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/modulos/_base.scss",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/index.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_footer.sass",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/assets/css/screen.css",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/assets/js/index.js",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/default.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/assets/js/jquery.fitvids.js",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/page-sobre-mi.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_post.sass",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/partials/loader.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_header.sass",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/css/magnific-popup.css",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/js/script.min.js",
+				"/C/Users/Diego Zazueta/AppData/Local/Temp/Temp1_optimized_contents.zip/js/script.js",
+				"/C/xampp/htdocs/Ghost/versiones theme/Blog 1.1.8/assets/scss/zurix.scss",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/post.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/partials/suscribe.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_autor.sass",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/author.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/tag.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/partials/pagination.hbs",
+				"/C/xampp/htdocs/Github/Piedra,papel y tijera/package.json",
+				"/C/xampp/htdocs/Github/Zurix/package.json",
+				"/C/xampp/htdocs/Complementos/Animaciones/animate.css",
+				"/C/xampp/htdocs/Ghost/versiones theme/Blog 1.1.7/assets/scss/plantilla/_header.sass",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/partials/navigation.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/partials/footer.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/author.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/index.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/page.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/post.hbs",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/casper/tag.hbs",
+				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_menu.scss",
+				"/C/xampp/htdocs/Github/Zurix/scss/zurix.scss",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_tag.sass",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_sobre-mi.sass",
+				"/C/xampp/htdocs/Ghost/versiones theme/Blog 1.1.7/assets/scss/zurix.scss",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/modulos/_menu.scss",
+				"/C/xampp/htdocs/Github/Zurix/README.html",
+				"/C/xampp/htdocs/Github/Zurix/README.md",
+				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_utilidades.scss",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/modulos/_utilidades.scss",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/css/modulos/_utilidades.css",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/modulos/_flexbox.scss",
+				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_flexbox.scss",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/componentes/_flexbox.scss",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_base.sass",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/zurix2.scss",
+				"/C/xampp/htdocs/Ghost/versiones theme/Blog 1.1.6/assets/scss/zurix.scss",
+				"/E/Descargas/pushy-master/css/pushy.css",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/js/pushy.min.js",
+				"/C/xampp/htdocs/Ghost/ghost-0.7.8/content/themes/Blog/assets/scss/plantilla/_pushy.scss",
+				"/C/xampp/htdocs/Github/Zurix/index.html",
+				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Canvas/index.html",
+				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Canvas/script.js",
+				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/JS/getContext.sublime-snippet",
+				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Ciclos/script.js",
+				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/JS/While.sublime-snippet",
+				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Pokedex/script.js",
+				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Pokedex/index.html",
+				"/C/xampp/htdocs/Cursos/Platzi/platzi programacion basica/Pokedex/estilo.sass",
+				"/C/xampp/htdocs/Cursos/Platzi/Programacion Básica/Pokedex/script.js",
+				"/C/xampp/htdocs/Cursos/Platzi/Programacion Básica/Pokedex/index.html",
+				"/C/xampp/htdocs/Curso platzi programacion basica/Pokedex/index.html",
+				"/C/xampp/htdocs/Curso platzi programacion basica/Pokedex/script.js",
+				"/C/xampp/htdocs/Curso platzi programacion basica/clase3/index.html",
+				"/C/xampp/htdocs/Curso platzi programacion basica/clase3/script.js",
+				"/C/xampp/htdocs/Cursos/Platzi/Programacion Básica/Busca Minas/script.js",
+				"/C/xampp/htdocs/Curso platzi programacion basica/Jan ken pon/script.js",
+				"/C/xampp/htdocs/Curso platzi programacion basica/Jan ken pon/index.html",
+				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/JS/Funcion main.sublime-snippet",
+				"/C/xampp/htdocs/Cursos/Platzi/Programacion Básica/Piedra,papel,tijera,lagarto & spock/script.js",
+				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/JS/Salto de linea.sublime-snippet",
+				"/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/HTML5/Script.sublime-snippet",
+				"/C/xampp/htdocs/Github/Zurix/plantilla/Proyecto/css/estilo.css",
+				"/C/xampp/htdocs/Github/Zurix/plantilla/Proyecto/index.html",
+				"/C/xampp/htdocs/Github/Zurix/plantilla/Proyecto/zurix.sass",
+				"/E/Descargas/bootstrap-sass-3.3.6.tar/bootstrap-sass-3.3.6/templates/project/_bootstrap-variables.sass",
+				"/E/Descargas/bootstrap-sass-3.3.6.tar/bootstrap-sass-3.3.6/templates/project/styles.sass",
+				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_visibilidad.scss",
+				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_base.scss",
+				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_nucleo.scss",
+				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_offset.scss",
+				"/C/xampp/htdocs/Github/Zurix/scss/modulos/_tablas.scss"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 119.0,
+				"where_history":
+				[
+					"<open folders>",
+					"",
+					"<open files>,C:\\xampp\\htdocs\\Github\\Zurix",
+					"<open files>,C:\\xampp\\htdocs\\Github\\Zurixed",
+					"<open files>",
+					"",
+					"<open files>,C:\\xampp\\htdocs\\Ghost\\ghost-0.7.8\\content\\themes\\Blog",
+					"<open files>",
+					"",
+					"C:\\xampp\\htdocs\\Ghost\\ghost-0.7.8\\content\\themes\\Blog,C:\\xampp\\htdocs\\Github\\Zurix\\scss",
+					"C:\\xampp\\htdocs\\Ghost\\ghost-0.7.8\\content\\themes\\Blog",
+					"Roboto",
+					"<current file>",
+					"<current file>,C:\\xampp\\htdocs\\Complementos\\Frameworks\\CSS\\Zurix",
+					"<current file>",
+					"",
+					"C:\\xampp\\htdocs\\Complementos\\Frameworks\\CSS\\sierra-master",
+					"<current file>,C:\\xampp\\htdocs\\Complementos\\Frameworks\\CSS\\Zurix\\scss,C:\\xampp\\htdocs\\Complementos\\Frameworks\\CSS\\Zurix",
+					"<current file>,C:\\xampp\\htdocs\\Complementos\\Frameworks\\CSS\\Zurix\\scss",
+					"<current file>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"self.proc",
+					"system",
+					"Async",
+					"self.proc",
+					"AsyncProcess",
+					"AsyncProcess(cmd, shell_cmd, merged_env, self, **kwargs)",
+					"self.append_string (proc",
+					"self.append_string (proc)",
+					"self.append_string (proc, self.debug_text)",
+					"self.append",
+					"self.append_string ",
+					"\"cmd /C \"",
+					"os.system",
+					"AsyncProcess",
+					"Asinc",
+					"asincproce",
+					"module",
+					"module seting",
+					";\n",
+					"font-we",
+					"border",
+					".post-meta",
+					"post-meta",
+					"port-meta",
+					"1s",
+					"placeholder",
+					";\n",
+					"min-hei",
+					"menu-fixed",
+					">\n",
+					"FF5925",
+					"justificar",
+					"500px",
+					"post-hea",
+					"post-ti",
+					"wrap-post",
+					"paginacion",
+					"05",
+					"rss",
+					"$gris",
+					"font-si",
+					"location",
+					"$gris4",
+					"$gris5",
+					"$gris6",
+					"$color6",
+					"$color",
+					"$color1",
+					"base",
+					"mini",
+					"base",
+					"Base",
+					"base",
+					"cros",
+					"base",
+					"plantilla",
+					"modulos",
+					"plantilla",
+					"$",
+					"min",
+					"body",
+					"#nav-icon4",
+					"l",
+					"lienzo",
+					"pony",
+					"l",
+					"ctx",
+					"l",
+					"ctx",
+					"i",
+					"breakpoints",
+					"ed",
+					"componentes",
+					"desarrollo",
+					"descarga",
+					"hidden",
+					"h2",
+					"\t<",
+					">\n",
+					"offset",
+					">\n",
+					"xs",
+					"token",
+					"1407",
+					"paginacion-wrap",
+					"post-content",
+					"#707070",
+					".wrap",
+					".main-content\n.wrap",
+					".main-content\n.site-wrapper",
+					".main-content\n",
+					"main-content\n",
+					";\n",
+					".center",
+					"center",
+					"desarrollo",
+					"//",
+					"menu-horizontal",
+					"padre",
+					"$size",
+					"&:hover",
+					"Roboto",
+					"open",
+					"Roboto",
+					"lato",
+					"hover",
+					"z-index",
+					"wrap",
+					"container",
+					".buscar",
+					"icono",
+					".icono",
+					"search2",
+					"mostrar-menu",
+					"logo-menu",
+					"titulo-menu",
+					"proyecto",
+					"azure",
+					"lighter",
+					"pink",
+					"__titulo",
+					"table-izquierda",
+					"rss",
+					"color5",
+					"margin",
+					"0px",
+					"#3996cc",
+					"3s"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2415,29 +2463,32 @@
 			[
 				{
 					"path": "C:\\xampp\\htdocs\\Platzi\\Javascript"
+				},
+				{
+					"path": "E:\\Proyectos\\C++"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/C/xampp/htdocs/Platzi/Javascript/Peso en planetas/index.html",
+							"file": "/E/Proyectos/C++/Curso Coppel C++/calculadora.cpp",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 351,
+								"buffer_size": 1217,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										279,
-										279
+										57,
+										57
 									]
 								],
 								"settings":
@@ -2449,15 +2500,15 @@
 										{
 											"1":
 											[
-												276,
-												278
+												1216,
+												1217
 											]
 										},
 										"icon":
 										{
 											"1":
 											[
-												"Packages/BracketHighlighter/icons/tag.png",
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
 												"brackethighlighter.default"
 											]
 										},
@@ -2465,8 +2516,8 @@
 										{
 											"1":
 											[
-												267,
-												269
+												54,
+												55
 											]
 										},
 										"unmatched":
@@ -2475,31 +2526,41 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
@@ -2510,131 +2571,20 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"color_scheme": "Packages/User/SublimeLinter/OneDark (SL).tmTheme",
-									"syntax": "Packages/HTML/HTML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/C/xampp/htdocs/Platzi/Javascript/Peso en planetas/script.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 266,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										266,
-										266
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
+										"bh_unmatched_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_tag_content"
 									],
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+									"color_scheme": "Packages/User/Color Highlighter/themes/OneDark (SL).tmTheme",
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -2679,7 +2629,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 128.0
+				"height": 235.0
 			},
 			"output.find_results":
 			{
@@ -2689,8 +2639,8 @@
 			{
 				"height": 0.0
 			},
-			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,804,0,156,1444",
+			"pinned_build_system": "Packages/User/C++.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,868,2,262,1446",
 			"project": "",
 			"replace":
 			{
@@ -2732,7 +2682,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 198.0,
+			"side_bar_width": 222.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

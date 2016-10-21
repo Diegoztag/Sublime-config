@@ -25,7 +25,7 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 13,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -33,7 +33,6 @@
 		"ASP",
 		"Batch File",
 		"C#",
-		"C++",
 		"Clojure",
 		"CSS",
 		"D",
