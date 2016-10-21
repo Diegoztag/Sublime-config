@@ -1816,7 +1816,7 @@
 					"file": "/C/Users/Diego Zazueta/AppData/Roaming/Sublime Text 3/.gitignore",
 					"settings":
 					{
-						"buffer_size": 16,
+						"buffer_size": 14,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -2612,15 +2612,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 16,
+								"buffer_size": 14,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										16,
-										16
+										14,
+										14
 									]
 								],
 								"settings":
