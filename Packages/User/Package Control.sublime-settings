@@ -6,16 +6,18 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"AngularJS",
 		"BracketHighlighter",
+		"C++ Completions",
 		"CodeFormatter",
 		"Color Highlighter",
 		"ColorPicker",
 		"CSS3",
 		"DocBlockr",
 		"Emmet",
-		"File Icons Extended",
 		"Future Funk - Color Scheme",
 		"JavaScript Completions",
+		"JSHint Gutter",
 		"LiveReload",
 		"Material Theme - Appbar",
 		"One Dark Material - Theme",
@@ -23,8 +25,7 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SublimeLinter",
-		"SublimeLinter-jshint",
-		"Theme - Spacefunk"
+		"Theme - Spacefunk",
+		"zz File Icons"
 	]
 }
