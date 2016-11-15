@@ -13,7 +13,12 @@
 		"Twitter",
 		"Facebook",
 		"Linkedin",
-		"Youtube"
+		"Youtube",
+		"escalabilidad",
+		"Monitoreo",
+		"monitoreo",
+		"entregables",
+		"entregable"
 	],
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
@@ -25,7 +30,8 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 9,
+	"font_size": 13,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -53,11 +59,13 @@
 		"OCaml",
 		"Pascal",
 		"Perl",
+		"Python",
 		"R",
 		"Rails",
 		"Regular Expressions",
 		"RestructuredText",
 		"Ruby",
+		"Rust",
 		"Scala",
 		"ShellScript",
 		"SQL",

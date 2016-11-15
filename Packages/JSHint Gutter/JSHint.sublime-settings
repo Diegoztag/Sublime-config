@@ -3,7 +3,7 @@
   // https://github.com/victorporof/Sublime-JSHint#oh-noez-command-not-found
   // http://nodejs.org/#download
   "node_path": {
-    "windows": "C:/Program Files (x86)/Nodist/node.exe",
+    "windows": "C:/Program Files/nodejs/node.exe",
     "linux": "/usr/bin/nodejs",
     "osx": "/usr/local/bin/node"
   },
