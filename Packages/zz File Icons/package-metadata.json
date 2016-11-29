@@ -1,1 +1,1 @@
-{"dependencies": [], "version": "2.1.0", "description": "Sublime file icons for improved visual grepping", "platforms": ["*"], "url": "https://github.com/oivva/sublime-file-icons", "sublime_text": ">=3062"}
+{"dependencies": [], "platforms": ["*"], "url": "https://github.com/ihodev/sublime-file-icons", "version": "2.2.0", "sublime_text": ">=3062", "description": "Sublime file icons for improved visual grepping"}
