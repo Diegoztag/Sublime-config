@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+#include <stdlib.h> //Incluir estas librerias al main
+#include <time.h>
+
+int numberRandom (int min, int max){
+  static bool condicion = true;
+  if (condicion)
+  {
+    srand (time(NULL));
+    condicion = false;
+  }
+  int numeroRandom = 1 + rand() % (max + 1 - min);
+
+  return numeroRandom;
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>randomcpp</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

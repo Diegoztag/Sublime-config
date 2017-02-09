@@ -18,7 +18,8 @@
 		"Monitoreo",
 		"monitoreo",
 		"entregables",
-		"entregable"
+		"entregable",
+		"maquetación"
 	],
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
@@ -30,7 +31,7 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 13,
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -53,7 +54,6 @@
 		"Lisp",
 		"Lua",
 		"Makefile",
-		"Markdown",
 		"Matlab",
 		"Objective-C",
 		"OCaml",
@@ -71,8 +71,7 @@
 		"SQL",
 		"TCL",
 		"Textile",
-		"Vintage",
-		"YAML"
+		"Vintage"
 	],
 	"indent_guide_options":
 	[

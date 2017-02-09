@@ -5,10 +5,10 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Alignment",
 		"AngularJS",
 		"BracketHighlighter",
-		"C++ Completions",
 		"CodeFormatter",
 		"Color Highlighter",
 		"ColorPicker",
@@ -26,7 +26,6 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"Theme - Spacefunk",
-		"zz File Icons"
+		"Theme - Spacefunk"
 	]
 }

@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+${1:/*Tipo*/} ${2:/*Nombre*/}(${3:/*Parámetros*/})
+{
+  ${5:/*Código*/}
+
+  return ${4:/*Valor de retorno*/};
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>funcion</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
